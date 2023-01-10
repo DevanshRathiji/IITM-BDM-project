@@ -1,1 +1,1 @@
-# IITM-BDM-project
+# IITM Business Data Management Project
